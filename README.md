@@ -1,4 +1,4 @@
-# transaction_app
+# Transaction App
 
 This is a demo project introducing an approach to structure large-scale mobile applications in Flutter built on top of REDUX state management combined with MVVM (Model View ViewModel) software architecture pattern. This demo is an assignment of BPC Company. This demo gets Transactions by dummy data and saves it to Shared preferences. It uses Redux and flutter_redux to manage all states of the application. 
 
